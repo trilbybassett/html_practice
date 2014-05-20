@@ -53,7 +53,12 @@ main>* {
 .menu{
 	font-family: 'Open Sans', sans-serif;
 	vertical-align: right;
-	background-color:#003399;
+	/*background-color:#003399;*/
+	/*background-image: url(bubbles.jpg);*/
+	/*background-image: url(vatican.jpg);*/
+	background-image: url(monaco.jpg);
+	background-position: right;
+	background-size: cover;
 	position: fixed;
 	top: 0;
 	bottom: 0;
